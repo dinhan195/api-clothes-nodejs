@@ -1,0 +1,170 @@
+{
+  "men": [
+    {
+      "name": "Áo sơ mi nam",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/455/315/…6-fb1a-4092-8afa-17a33d167746.jpg?v=1653297236257",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 200000,
+      "category": "men",
+      "available": "2",
+      "id": "1"
+    },
+    {
+      "name": "Dồ hè nam",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/455/315/…7-7bc0-4973-a4f1-bb844514d6d5.jpg?v=1653291329997",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 150000,
+      "category": "men",
+      "available": "10",
+      "id": "2"
+    },
+    {
+      "name": "Dồ thể thao nam",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/455/315/…1-4f45-405a-9608-6a4f5679d671.jpg?v=1653297401413",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 130000,
+      "category": "men",
+      "available": 19,
+      "id": "3"
+    },
+    {
+      "name": "Quần âu nam",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/455/315/…1-ad4d-4e7c-9a50-3607cf85ec34.jpg?v=1653299373627",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 170000,
+      "category": "men",
+      "available": 8,
+      "id": "4"
+    },
+    {
+      "name": "Đồ ngủ nam",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/455/315/products/1-jpeg-bb35d9d9-1da6-438e-a3b2-8f03740dd9fc.jpg?v=1653298949747",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 80000,
+      "available": 4,
+      "category": "men",
+      "id": "5"
+    }
+  ],
+  "women": [
+    {
+      "name": "Áo khoác nữ",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/455/315/products/1-jpeg-1b210bcc-3357-4b40-8e48-dfa61547a4c4.jpg?v=1653358033383",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 80000,
+      "available": 4,
+      "category": "women",
+      "id": "6"
+    },
+    {
+      "name": "Áo len nữ",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/455/315/products/3-jpeg-dcba3f1d-413f-4e83-87bb-c21479ea321b.jpg?v=1653358923853",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 180000,
+      "available": 4,
+      "category": "women",
+      "id": "7"
+    },
+    {
+      "name": "Chân váy nữ",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/455/315/products/1-jpeg-e39c9ad8-b2bf-455a-a246-0cc8522a6de5.jpg?v=1653358813817",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 300000,
+      "available": 10,
+      "category": "women",
+      "id": "8"
+    },
+    {
+      "name": "Giày nữ",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/455/315/products/1-jpeg-11f875cd-a3e4-4408-8296-c0498dba8f1f.jpg?v=1653359146257",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 500000,
+      "available": 4,
+      "category": "women",
+      "id": "9"
+    },
+    {
+      "name": "Áo khoác nữ",
+      "image": "",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 80000,
+      "available": 4,
+      "category": "women",
+      "id": "10"
+    },
+    {
+      "name": "Váy nữ",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/455/315/…a-ce2e-49a7-a979-dc440c0a0518.jpg?v=1653358432663",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 310000,
+      "available": 4,
+      "category": "women",
+      "id": "11"
+    },
+    {
+      "name": "Dồ thể thao nữ",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/455/315/products/1-jpeg-f7c305fd-59f6-48f8-9e4f-76160626f710.jpg?v=1653301590830",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 100000,
+      "available": 4,
+      "category": "women",
+      "id": "12"
+    }
+  ],
+  "kids": [
+    {
+      "name": "Sơ mi dũi bé trai",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/455/315/products/4-jpeg-66d23174-0378-4f81-bc4e-2da7680f7338-eaf329e3-d8d4-4929-8093-2c858b5656a3.jpg?v=1656643686227",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 210000,
+      "available": 5,
+      "category": "kids",
+      "id": "13"
+    },
+    {
+      "name": "Bộ sơ mi cotton bé trai",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/455/315/products/1-jpeg-6bd0aac2-5c53-411a-9fb2-7432f8f9cdd9.jpg?v=1653990458150",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 300000,
+      "available": 5,
+      "category": "kids",
+      "id": "14"
+    },
+    {
+      "name": "Bộ thể thao bé trai",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/455/315/…a-b2a9-49b3-b8fd-5421a98cc695.jpg?v=1653990311827",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 110000,
+      "available": 5,
+      "category": "kids",
+      "id": "15"
+    },
+    {
+      "name": "Balo chống gù",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/455/315/products/3-jpeg-8b160652-fd3a-4648-86b1-6d52a27c6ac6.jpg?v=1653301422547",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 310000,
+      "available": 5,
+      "category": "kids",
+      "id": "16"
+    },
+    {
+      "name": "Bộ sơ mi trẻ em",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/455/315/…3-c254-4833-b59b-53818cec4f32.jpg?v=1653299420297",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 180000,
+      "available": 5,
+      "category": "kids",
+      "id": "17"
+    },
+    {
+      "name": "Găng tay trẻ em",
+      "image": "https://bizweb.dktcdn.net/thumb/large/100/455/315/…9-98ad-4425-b067-25d03eed4715.jpg?v=1653297485677",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "price": 50000,
+      "available": 5,
+      "category": "kids",
+      "id": "18"
+    }
+  ]
+}
